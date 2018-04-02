@@ -1,3 +1,10 @@
-# Mendix Widget Boilerplate
+# Decimal Style
+This widget displays a decimal string with some nice styling!
 
-See [AppStoreWidgetBoilerplate](https://github.com/mendix/AppStoreWidgetBoilerplate/) for an example
+![](./assets/modeler.png)
+
+# Configuration
+
+* pick an attribute
+* name your classes
+* profit
